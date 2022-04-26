@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-family:
+            "Pretendard",
+            system-ui;
+    color: #202020;
+}
+
+body { min-height: 100vh; }
